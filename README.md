@@ -1,2 +1,2 @@
 # RestSharpwithAllure
-Rest sharp POC project with allure reporting 
+Restsharp POC project using Nunit with allure reporting 

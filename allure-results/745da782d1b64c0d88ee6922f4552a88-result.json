@@ -1,0 +1,85 @@
+{
+  "uuid": "14881a4a-5fa5-4701-a3bc-eee3fd7e3e46-tr-0-1002",
+  "historyId": "RestSharpTest.Tests.CreateNewUsers",
+  "fullName": "RestSharpTest.Tests.CreateNewUsers",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5GII6RD"
+    },
+    {
+      "name": "testClass",
+      "value": "RestSharpTest.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CreateNewUsers"
+    },
+    {
+      "name": "package",
+      "value": "RestSharpTest.Tests"
+    },
+    {
+      "name": "tag",
+      "value": "PostAPI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Hitesh"
+    },
+    {
+      "name": "subSuite",
+      "value": "CreateUser"
+    },
+    {
+      "name": "suite",
+      "value": "API Test"
+    }
+  ],
+  "links": [],
+  "name": "CreateNewUsers",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "CreateNewUsers"
+  },
+  "stage": "finished",
+  "description": "Create Users\n",
+  "steps": [
+    {
+      "name": "CreateNewUsers",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0de45776dc254215946cc03bf2a17c63-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1625818007837,
+      "stop": 1625818016033
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1625818007835,
+  "stop": 1625818016052
+}

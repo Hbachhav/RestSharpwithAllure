@@ -1,0 +1,85 @@
+{
+  "uuid": "fdda03ef-690f-4cea-aacc-61a9c4adcc49-tr-0-1003",
+  "historyId": "RestSharpTest.Tests.UpdateUser",
+  "fullName": "RestSharpTest.Tests.UpdateUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5GII6RD"
+    },
+    {
+      "name": "testClass",
+      "value": "RestSharpTest.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UpdateUser"
+    },
+    {
+      "name": "package",
+      "value": "RestSharpTest.Tests"
+    },
+    {
+      "name": "tag",
+      "value": "PutAPI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Hitesh"
+    },
+    {
+      "name": "subSuite",
+      "value": "update User"
+    },
+    {
+      "name": "suite",
+      "value": "API Test"
+    }
+  ],
+  "links": [],
+  "name": "UpdateUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "UpdateUser"
+  },
+  "stage": "finished",
+  "description": "Update Users\n",
+  "steps": [
+    {
+      "name": "UpdateUser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "37f3b5ed966e438fa40afa05ebdc4c50-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1625818016186,
+      "stop": 1625818016663
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1625818016186,
+  "stop": 1625818016663
+}
